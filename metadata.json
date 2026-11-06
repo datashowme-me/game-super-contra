@@ -1,0 +1,6 @@
+{
+  "name": "魂斗罗: 终极突击 (Super Contra Strike)",
+  "description": "经典街机横版双人射击游戏，支持单人与双人本地合作模式及关卡选择，包含经典散弹枪、激光枪等武器，巨型Boss战与复古8-bit音效。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
